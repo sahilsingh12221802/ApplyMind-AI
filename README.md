@@ -1,7 +1,7 @@
 # Agentic AI Job Application & Career Automation Platform
 
 > **Status📋: In Development (Work in Progress)**
-> This project is under active construction. Core architecture and several milestones are being built incrementally — it is **not yet feature-complete or production-ready**. See the [Development Roadmap](#-development-roadmap--milestones) below for current progress.
+> This project is under active construction. Core architecture and several milestones are being built incrementally — it is **not yet feature-complete or production-ready**. 
 
 ---
 
